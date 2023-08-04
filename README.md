@@ -2,6 +2,8 @@
 
 ### By Sarah Reimann, Emma Gerigscott, Kyle Crawford, Thomas McDowell, Eusebie Siebenberg
 
+![a photo of the home page](./MouseMingleClient/wwwroot/img/homepage.png)
+
 ## Description
 
 An dating app for rodents. User can login and see all the available rodents including their name, a photo, and a link to their further details. User can then upvote or downvote any of the rodents. 
